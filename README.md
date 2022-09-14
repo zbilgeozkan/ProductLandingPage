@@ -1,4 +1,4 @@
-# Build a Product Landing Page
+# Building a Product Landing Page
 [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
